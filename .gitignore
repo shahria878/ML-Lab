@@ -1,0 +1,7 @@
+PVS 1/
+catboost_info/
+venv/
+.venv/
+*.pkl
+*.zip
+datasets/
